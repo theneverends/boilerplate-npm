@@ -1,6 +1,6 @@
 {
-	"author": "Ricky Wang",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Ricky Wang",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
